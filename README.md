@@ -54,6 +54,7 @@ text
 
 ---
 
+```
 ## 📁 Project Structure
 Urban-Mobility-Data/
 ├── backend/
@@ -103,6 +104,7 @@ Urban-Mobility-Data/
 
 text
 
+```
 ---
 
 ## ⚙️ Setup Instructions
