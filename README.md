@@ -8,7 +8,10 @@ A full-stack analytics platform built on *7.4 million NYC Yellow Taxi trips* fro
 
 ## 📽️ Video Walkthrough
 
-*5-minute demo:* [VIDEO LINK HERE]
+*5-minute demo:* https://youtu.be/nmBGTlAgxGg
+*Team task sheet:* https://docs.google.com/spreadsheets/d/1HR_35NDiP6F6vSzcYWngFthr4UJpLuXDboMtRYNDq64/edit?usp=sharing
+*Scrum board:* https://trello.com/invite/b/6acfeab6d78d3ac63c14f932/ATTI1ee691d2a086bc1be34f87e62bb0996b5900CF56/urban-mobility-data
+
 
 ---
 
