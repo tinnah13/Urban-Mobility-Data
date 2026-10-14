@@ -4,7 +4,10 @@
 # All queries go through SQAlchemy Core with parameterized 
 #statements to prevent SQL injection.
 # Flask API - exposes /api/* endpoints
-
+# Design principles:
+#   1. Read-only API  no endpoint mutates the database.
+#   2. Stateless  every request carries all context it needs.
+#   3. Parameterized SQL  user input never gets concatenated into queries.
 import os
 import sys
 from pathlib import Path
