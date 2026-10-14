@@ -2,7 +2,11 @@
   "reportVersion": "1.0",
   "assignmentId": "assignment-1791968638641-smm3phm",
   "assignmentName": "Summative -Urban Mobility Analytics",
+<<<<<<< HEAD
   "generatedAt": 1791988537451,
+=======
+  "generatedAt": 1791988613193,
+>>>>>>> 06fcec719523d923dc33aaa65ebd3f9104809703
   "metrics": {
     "assignmentId": "assignment-1791968638641-smm3phm",
     "authorship": {
@@ -1376,11 +1380,19 @@
       "source": "assignment-activated"
     }
   ],
+<<<<<<< HEAD
   "studentIdentifier": "a.umuhoza2@alustudent.com",
+=======
+  "studentIdentifier": "s.eunice@alustudent.com",
+>>>>>>> 06fcec719523d923dc33aaa65ebd3f9104809703
   "repoUrl": "https://github.com/tinnah13/Urban-Mobility-Data.git",
   "repoHeadCommit": "7dfb8b51c243102231cc1f667064ddb218f9ec6e",
   "integrity": {
     "algorithm": "sha256",
+<<<<<<< HEAD
     "hash": "7de4433fefd10f1e85922cdfab28d2a83648302ab18d768a8908ee4386351d93"
+=======
+    "hash": "09c794f729815d6ce08ea51d5cd04f30e4af8ca0d4ffb21bc2ae5581589ada86"
+>>>>>>> 06fcec719523d923dc33aaa65ebd3f9104809703
   }
 }
