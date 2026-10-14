@@ -1,4 +1,32 @@
-﻿graph LR
-  A[Browser] --> B[Flask API]
-  B --> C[SQLAlchemy]
-  C --> D[(SQLite)]
+┌─────────────────────────────┐
+│     Browser Frontend        │
+│ HTML5 · CSS3 Grid · Chart.js│
+└──────────────┬──────────────┘
+               │ HTTP / JSON
+               ▼
+┌─────────────────────────────┐
+│     Flask API Backend       │
+│ app.py · 9 REST Endpoints   │
+└────────┬───────────┬────────┘
+         │           │ uses
+         │           ▼
+         │  ┌──────────────────┐
+         │  │Custom Algorithms │
+         │  │Merge Sort · TopK │
+         │  │IQR Detector      │
+         │  └──────────────────┘
+         │ SQLAlchemy
+         ▼
+┌─────────────────────────────┐
+│     SQLite Database         │
+│     7 Tables Total          │
+│ 5 Dims + 1 Time + 1 Fact    │
+│ 7.46M Trips                 │
+└──────────────▲──────────────┘
+               │ populates
+               │
+┌─────────────────────────────┐
+│     ETL Pipeline            │
+│ loader → cleaner → features │
+│ → build_database            │
+└─────────────────────────────┘
