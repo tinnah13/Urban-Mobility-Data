@@ -14,8 +14,8 @@ A full-stack analytics platform built on *7.4 million NYC Yellow Taxi trips* fro
 
 ## 👥 Team
 
-| Name | Role | GitHub |
-|------|------|--------|
+| Name | Role |  
+|------|------|
 | Albertine Umuhoza | Backend Lead 
 | Eunice Nina Sangwa | Database Architect 
 | Kevine Niyonkuru | Frontend Lead 
